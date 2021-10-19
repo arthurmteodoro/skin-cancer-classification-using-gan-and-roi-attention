@@ -1,0 +1,3 @@
+[submodule "data-efficient-gans"]
+	path = data-efficient-gans
+	url = https://github.com/arthurmteodoro/data-efficient-gans.git
